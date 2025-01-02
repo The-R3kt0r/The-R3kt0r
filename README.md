@@ -36,4 +36,4 @@
 
 > "In the world of shadows, I am the glitch in the system."
 
-![Obito Cool GIF](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
+![Obito Cool GIF](https://media.tenor.com/images/7b013b49c67124a0d50894cb9600c985/tenor.gif)
