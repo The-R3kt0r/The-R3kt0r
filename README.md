@@ -6,17 +6,17 @@
 
 ## 👾 About Me
 
-- 💻 **Hacker in the shadows**: Exploring the unseen, breaking the unbreakable.
-- 🎭 **Identity**: Uchiha Obito-inspired persona, merging chaos with control.
-- 🔐 **Mission**: Ethical hacking for a better, secure world.
+- 💻 **Hacker in the shadows** : Exploring the unseen, breaking the unbreakable.
+- 🎭 **Identity** : Uchiha Obito-inspired persona, merging chaos with control.
+- 🔐 **Mission** : Ethical hacking for a better, secure world.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: C, Python, SQL
-- **Tools**: Kali Linux, Metasploit, Burp Suite
-- **Specialties**: Vulnerability detection, penetration testing, and cryptography
+- **Languages** : C, Python, SQL
+- **Tools** : Kali Linux, Metasploit, Burp Suite
+- **Specialties** : Vulnerability detection, penetration testing, and cryptography
 
 ---
 
@@ -29,11 +29,9 @@
 
 ## 📫 Contact
 
-- Email: [r3kt0r@protonmail.com](mailto:r3kt0r@protonmail.com)
-- GitHub: [github.com/R3KT0R](https://github.com/R3KT0R)
+- Email : [the_r3kt0r@protonmail.com](mailto:the_r3kt0r@protonmail.com)
+- GitHub : [github.com/R3KT0R](https://github.com/R3KT0R)
 
 ---
 
 > "In the world of shadows, I am the glitch in the system."
-
-![Hacker Dark GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
