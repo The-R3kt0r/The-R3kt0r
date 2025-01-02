@@ -6,17 +6,17 @@
 
 ## 👾 About Me
 
-- 💻 **Hacker in the shadows** : Exploring the unseen, breaking the unbreakable.
-- 🎭 **Identity** : Uchiha Obito-inspired persona, merging chaos with control.
-- 🔐 **Mission** : Ethical hacking for a better, secure world.
+- 💻 **Hacker in the shadows**: Exploring the unseen, breaking the unbreakable.
+- 🎭 **Identity**: Uchiha Obito-inspired persona, merging chaos with control.
+- 🔐 **Mission**: Ethical hacking for a better, secure world.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages** : C, Python, SQL
-- **Tools** : Kali Linux, Metasploit, Burp Suite
-- **Specialties** : Vulnerability detection, penetration testing, and cryptography
+- **Languages**: C, Python, SQL
+- **Tools**: Kali Linux, Metasploit, Burp Suite
+- **Specialties**: Vulnerability detection, penetration testing, and cryptography
 
 ---
 
@@ -35,3 +35,5 @@
 ---
 
 > "In the world of shadows, I am the glitch in the system."
+
+![Obito Cool GIF](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
