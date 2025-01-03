@@ -30,7 +30,7 @@
 ## 📫 Contact
 
 - Email : [the_r3kt0r@protonmail.com](mailto:the_r3kt0r@protonmail.com)
-- GitHub : [github.com/R3KT0R](https://github.com/R3KT0R)
+- GitHub : [github.com/The-R3kt0r](https://github.com/The-R3kt0r)
 
 ---
 
